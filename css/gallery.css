@@ -1,0 +1,5 @@
+/* Eunajem Studios: Adult Gallery – Our Work */
+.gallery-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:14px}
+.gallery-grid figure{margin:0;border-radius:10px;overflow:hidden}
+.gallery-grid img{width:100%;height:100%;object-fit:cover;display:block;aspect-ratio:4/3}
+.gallery-title{text-align:center;margin:12px 0 22px}
