@@ -3,3 +3,10 @@
 .gallery-grid figure{margin:0;border-radius:10px;overflow:hidden}
 .gallery-grid img{width:100%;height:100%;object-fit:cover;display:block;aspect-ratio:4/3}
 .gallery-title{text-align:center;margin:12px 0 22px}
+/* Navy section background for Our Work */
+#gallery-adults {
+  background: #0b1a3a;   /* navy */
+  color: #fff;
+  padding: 28px 0 36px;
+}
+#gallery-adults .gallery-title { color:#fff; }
